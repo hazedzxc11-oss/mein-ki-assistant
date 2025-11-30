@@ -1,8 +1,4 @@
-fastapi
-uvicorn
-python-dotenv
-requests
-jinja2
-openai>=1.0.0
-pydantic
-pypdf
+cd c:\Users\gamin\Documents\GitHub\mein-ki-assistant
+git add requirements.txt
+git commit -m "Add python-multipart to requirements"
+git push origin main
